@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-write a method that calculates the fewest number of operations 
+write a method that calculates the fewest number of operation 
 needed to result in exactly n H characters in the file
 """
 
